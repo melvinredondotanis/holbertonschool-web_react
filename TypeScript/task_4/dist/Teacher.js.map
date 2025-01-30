@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "Teacher.js",
+  "sourceRoot": "",
+  "sources": [
+    "../js/subjects/Teacher.ts"
+  ],
+  "names": [],
+  "mappings": ""
+}
